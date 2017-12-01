@@ -1,0 +1,9 @@
+{
+    "name": "template",
+    "version": "0.1.0",
+    "main": "main.js",
+    "scripts": {
+        "startWindows": ".\\..\\..\\..\\node_modules\\.bin\\electron .",
+        "startMac": "./../../../node_modules/.bin/electron ."
+    }
+}
